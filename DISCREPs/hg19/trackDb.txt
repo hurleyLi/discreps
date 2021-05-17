@@ -1,4 +1,4 @@
-track DISCREPs_hg38
+track DISCREPs_hg19
 bigDataUrl DISCREPS_hg19sorted.bb
 shortLabel DISCREPs_hg19
 longLabel Regions on hg19 reference enriched in discordant variant calls when compared to the same region on hg38
