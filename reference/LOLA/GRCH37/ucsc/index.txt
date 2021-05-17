@@ -1,0 +1,10 @@
+filename	description
+altSeqLiftOverPsl.bed	alternate haplotype
+fixSeqLiftOverPsl.bed	fix patch sequences
+gap.bed	gaps in assembly
+genomicSuperDups.bed	segmental duplication
+grcIncidentDb.bed	assembly problems
+hg38ContigDiff.bed	genome assemblies difference
+microsat.bed	microsatellite
+nestedRepeats.bed	interrupted repeats
+simpleRepeat.bed	simple tandem repeats

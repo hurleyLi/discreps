@@ -1,0 +1,10 @@
+filename	size
+altSeqLiftOverPsl.bed	178
+fixSeqLiftOverPsl.bed	416
+gap.bed	497
+genomicSuperDups.bed	51599
+grcIncidentDb.bed	2685
+hg38ContigDiff.bed	6097
+microsat.bed	41572
+nestedRepeats.bed	575600
+simpleRepeat.bed	1000830
