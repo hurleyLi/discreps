@@ -3,4 +3,3 @@ shortLabel DISCREPs
 longLabel Regions enriched in discordant variant calls due to mapping to hg19 vs hg38
 genomesFile genomes.txt
 email lihe.oscar@gmail.com
-descriptionUrl DISCREPS.html
