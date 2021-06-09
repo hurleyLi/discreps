@@ -1,5 +1,5 @@
 # Code for Manuscript:
-> Exome Variant Discrepancies due to Reference Genome Differences (submitted to *AJHG*; under revision)
+> Exome Variant Discrepancies due to Reference Genome Differences (submitted to *AJHG*; in press)
 
 In this study, we determined variant call discrepancies between GRCh37 and GRCh38 using exome sequencing data (n = 1,572) from the Baylor-Hopkins Center for Mendelian Genomics. The code generated from this study are provided here. 
 
